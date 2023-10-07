@@ -4,4 +4,6 @@
     <string name="lebar">lebar</string>
     <string name="btn_hitung">btn_hitung</string>
     <string name="input_tinggi">input_tinggi</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="selamat_datang_di_activity_2">Selamat datang di Activity 2!!</string>
 </resources>
